@@ -29,3 +29,18 @@ int main()
     obj.printData();
     return 0;
 }
+/*
+Types of Inheritance
+1)Single Inheritance
+2)Multi-level Inheritance
+3)Multiple Inheritance
+4)Hierarchical Inheritance
+5)Hybrid Inheritance
+*/
+
+/*
+Visibility Modes
+1)private
+2)protected
+3)public
+*/
