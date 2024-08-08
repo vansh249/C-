@@ -81,7 +81,7 @@ int main()
     Complex *p1,*p2,*p3=nullptr,*p4=nullptr;
     p1=new Complex();
     p2=new Complex(); 
-    p1->setData(3,4);  
+    p1->setData(3,4);
     p2->setData(5,6);
     p3= new Complex();
     if(p3!=nullptr)
